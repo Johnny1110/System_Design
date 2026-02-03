@@ -53,7 +53,7 @@ Transform from a developer who writes code to an **engineer who designs systems*
 Master the vocabulary and basic components that every system uses.
 
 #### Week 1: Networking & Communication
-- [1.1 How the Inte`rnet Works](./phase-1/01-networking/01-how-internet-works.md) 👈
+- [1.1 How the Internet Works](./phase-1/01-networking/01-how-internet-works.md) 👈
 - [1.2 HTTP/HTTPS Deep Dive](./phase-1/01-networking/02-http-https.md)
 - [1.3 TCP vs UDP — When to Use What](./phase-1/01-networking/03-tcp-vs-udp.md)
 - [1.4 WebSockets & Long Polling](./phase-1/01-networking/04-websockets-long-polling.md)
